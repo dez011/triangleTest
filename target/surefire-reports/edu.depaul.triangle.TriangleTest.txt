@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: edu.depaul.triangle.TriangleTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.025 s <<< FAILURE! - in edu.depaul.triangle.TriangleTest
+edu.depaul.triangle.TriangleTest.demoError  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.RuntimeException: Also not implemented yet
+	at edu.depaul.triangle.TriangleTest.demoError(TriangleTest.java:19)
+
+edu.depaul.triangle.TriangleTest.testIsosceles  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not implemented yet
+	at edu.depaul.triangle.TriangleTest.testIsosceles(TriangleTest.java:13)
+
